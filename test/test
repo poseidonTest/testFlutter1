@@ -1,0 +1,10 @@
+void setup() {
+  pinMode(8,HIGH);
+  pinMode(9,HIGH);
+  pinMode(10,HIGH);
+}
+void loop() {
+  if(analogRead(A0)==HIGH) {
+    
+  }
+}
