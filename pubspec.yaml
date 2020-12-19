@@ -31,7 +31,7 @@ dependencies:
   android_alarm_manager: ^0.4.5+14
   shared_preferences: ^0.5.10
   audioplayers: ^0.16.1
-  # foreground_service: ^2.0.1+1
+  foreground_service: ^2.0.1+1
   android_intent: ^0.3.7+4
   intl: ^0.16.1
   flutter_phoenix: ^0.1.0
